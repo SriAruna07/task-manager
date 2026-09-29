@@ -1,0 +1,40 @@
+# Task Manager
+
+A full-stack Task Management Application developed as part of my Full Stack Development internship at Thiranex.
+
+## Features
+
+- User registration
+- User login
+- Create tasks
+- View saved tasks
+- Edit tasks
+- Mark tasks as completed
+- Delete tasks
+- Task statistics
+- MongoDB database integration
+- Responsive design
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+## Project Structure
+
+```text
+task-manager/
+│
+├── index.html
+├── style.css
+├── script.js
+├── server.js
+├── Task.js
+├── user.js
+├── package.json
+└── package-lock.json
